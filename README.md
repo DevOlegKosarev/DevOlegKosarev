@@ -11,10 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 If you have any idea to improve my github profile feel free to connected.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 ![GitHub followers](https://img.shields.io/github/followers/DevOlegKosarev?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/DevOlegKosarev?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/DevOlegKosarev?style=social)
+![Twitter Follow](https://img.shields.io/facebook/follow/DevOlegKosarev?style=social)
 
 
 ---
