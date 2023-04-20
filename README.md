@@ -22,6 +22,6 @@ If you have any idea to improve my github profile feel free to connected.
 ## &#x1f4c8; My GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOlegKosarev&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevOlegKosarev)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevOlegKosarev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOlegKosarev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOlegKosarev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
